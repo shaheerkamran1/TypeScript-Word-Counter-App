@@ -11,13 +11,13 @@ This program is made for the sole purpose of practice and showing skills based u
 # Download the Package
 
 ```
-npm i cli_wordCounter_piaic_shaheer
+npm i cli_wordcounter_piaic_shaheer
 ```
 
 # Run the Word Counter App on your terminal
 
 ```
-npx cli_wordCounter_piaic_shaheer
+npx cli_wordcounter_piaic_shaheer
 ```
 
 # Packages
